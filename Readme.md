@@ -1,3 +1,3 @@
 # Link hover effect
 
-![screenshot](/screeshot_linkHoverEffect.png)
+![screenshot](/screenshot_linkHoverEffect.png)
